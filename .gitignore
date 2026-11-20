@@ -1,0 +1,15 @@
+# Secretos: NUNCA al repositorio
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
